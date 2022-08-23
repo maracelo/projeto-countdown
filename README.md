@@ -2,4 +2,6 @@
 
 ## Simple Countdown
 
-I've just maked this simple countdown to show my experience with css, html and js
+Eng: I've just maked this simple countdown to show my experience with css, html and js.
+
+Pt-br: Fiz essa contagem regressiva para mostrar minha experiência com css, html e js.
